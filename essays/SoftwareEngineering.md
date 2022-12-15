@@ -9,7 +9,8 @@ labels:
   - Software Engineering
 ---
 
-![](images/softwareEngin.png)
+<img width="100px" class="rounded float-start pe-4" src="../img/softwareEngin.png">
+
 
 ## The ICS-314: Software Engineering Experience
 During the course of this semester, I learned many things about web developement and software engineering in this class. From Open Source Software Development, Configuration Management, Functional Programming, and Design Patterns to Coding Standards, User Interface Frameworks, and Ethics in Software Engineering. 
